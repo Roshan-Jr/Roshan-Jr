@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therealroshan10
+- 👋 Hi, I’m Roshan J
 - 👀 I’m interested in Web Development and Web Designing, Blockchain, Dapps
 - 🌱 I’m currently learning Web Development
 - 💞️ Collaborations are always welcomed
