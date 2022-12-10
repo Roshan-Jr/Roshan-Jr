@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Roshan J
-- 👀 I’m interested in Web Development and Web Designing, Blockchain, Dapps
-- 🌱 I’m currently learning Web Development
-- 💞️ Collaborations are always welcomed
-- 📫 How to reach me? => Instagram = www.instagram.com/roshan10jr Twitter = www.twitter.com/roshan10jr 
+
+# Hey folks!
+
+* I am Roshan J learning **Frontend Web Development** and pursuing my **Bachelors** in **Computer Science and Engineering**.
+
+* I am currently learning **ReactJs**, **ReactNative** and **Rust**.
+
+* I worked on a couple of projects with **ReactJs** so, I am quite familiar with it.
+
+* Sometimes as a blogger. Check my Blogs on [Medium] (https://medium.com/@roshanjr)
+
+
 
 <!---
 therealroshan10/therealroshan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
