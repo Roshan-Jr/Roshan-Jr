@@ -7,7 +7,7 @@
 
 * I worked on a couple of projects with **ReactJs** so, I am quite familiar with it.
 
-* Sometimes as a blogger. Check my Blogs on [Medium] (https://medium.com/@roshanjr)
+* Sometimes as a blogger. Check my Blogs on [Medium](https://medium.com/@roshanjr) 
 
 
 
